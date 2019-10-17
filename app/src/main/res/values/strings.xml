@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="food_name">Food Name</string>
+    <string name="detail">Detail</string>
+    <string name="coro_balap">Coro Balap</string>
+    <string name="apem">Apem</string>
+</resources>
